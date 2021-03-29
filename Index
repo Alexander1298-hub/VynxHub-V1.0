@@ -9243,7 +9243,7 @@ AcceptKey.Text = "Enter"
 AcceptKey.TextColor3 = Color3.fromRGB(206, 206, 206)
 AcceptKey.TextSize = 30.000
 AcceptKey.MouseButton1Down:connect(function()
-	if Key.Text == "update1" then
+	if Key.Text == "benladen" then
 		MainFrame.Visible = true
 		OpenMainScriptButton.Visible = true
 		KeySystem.Visible = false
